@@ -2,7 +2,7 @@
 - 👀 저는 프론트엔드에 관심이 있습니다.
 - 🌱 저는 현재 react와 typescript를 배우고 있습니다.
 - 💞️ 블로그 https://new-crystal.tistory.com 를 운영 중입니다!
-- 📫 breath025@gmail.com  
+- 📫 newcrystal670@gmail.com 
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHb&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
