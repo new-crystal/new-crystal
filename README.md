@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=New%20Crystal&fontSize=90) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal025&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal025)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHb&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
