@@ -9,7 +9,7 @@
 
 ### 👋 안녕하세요 저는 신수정입니다 
 ### 👀 저는 꿈꾸는 프론트엔드 개발자입니다.
-### 🌱 저는 현재 Javascript, Typescript와 React와 를 배우고 있습니다.
+### 🌱 저는 현재 Javascript, Typescript와 React를 배우고 있습니다.
 ### 💞️ 블로그 https://new-crystal.tistory.com 를 운영 중입니다!!
 ### 📫 newcrystal670@gmail.com
 
