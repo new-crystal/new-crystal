@@ -17,9 +17,9 @@
 ### 💞️ blog : https://new-crystal.tistory.com
 ### 📫 e-mail : newcrystal670@gmail.com
 
-# 저는 소통을 좋아하는 개발자입니다!!!
+<!-- # 저는 소통을 좋아하는 개발자입니다!!!
 ![F반_상장 001](https://user-images.githubusercontent.com/109053875/195837932-5aa706e4-7b1d-4d0e-9d68-a6cd26547abe.jpeg)
 ![F반_상장 005](https://user-images.githubusercontent.com/109053875/195837949-bf73fa56-4919-4966-8606-3bf3ba9158ec.jpeg)
 
-
+ -->
 </div>
