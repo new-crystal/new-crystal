@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHb&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> -->
 
 ### 👋 Hello World 
-### 🏃‍♀️ I'm frontend-developer
+### 🏃‍♀️ I'm a turtle that beats a rabbit
 ### 💞️ blog : https://new-crystal.tistory.com
 ### 📫 e-mail : newcrystal670@gmail.com
 
